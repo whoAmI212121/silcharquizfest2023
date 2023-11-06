@@ -47,7 +47,11 @@ const Navbar = () => {
           <li className="p-4 border-b border-gray-200"><Link to='/events'>Events</Link> </li>
           <li className="p-4 border-b border-gray-200"><Link to='/register'>Register</Link> </li>
           <li className="p-4 border-b border-gray-200"><Link to='/about'>About Us</Link> </li>
-          <li className="p-4 border-b border-gray-200"><Link to='/auth'>Login</Link> </li>
+          {currentUser ? (
+            <li className="p-4 border-b border-gray-200" onClick={signOutUser}><Link to='/auth'> Log Out</Link></li>
+          ) : (
+            <li className="p-4 border-b border-gray-200"><Link to='/auth'> Login</Link></li>
+          )}
           <li className="p-4"><Link to='/contact' >Contact</Link></li>
         </ul>
       </div>

@@ -16,7 +16,7 @@ const About = () => {
                 <div className="flex items-center gap-x-6">
                 <img className="h-32 w-32 rounded-full" src="https://www.digitary.net/wp-content/uploads/2021/07/Generic-Profile-Image-300x300.png" alt=""/>
                 <div>
-                    <h3 className="text-base font-semibold leading-7 tracking-tight text-gray-900">Leslie Alexander</h3>
+                    <h3 className="text-base font-semibold leading-7 tracking-tight text-gray-900"> </h3>
                     <p className="text-sm font-semibold leading-6 text-indigo-600">Chief Patron</p>
                 </div>
                 </div>
@@ -25,7 +25,7 @@ const About = () => {
                 <div className="flex items-center gap-x-6">
                 <img className="h-32 w-32 rounded-full" src="https://www.digitary.net/wp-content/uploads/2021/07/Generic-Profile-Image-300x300.png" alt=""/>
                 <div>
-                    <h3 className="text-base font-semibold leading-7 tracking-tight text-gray-900">Leslie Alexander</h3>
+                    <h3 className="text-base font-semibold leading-7 tracking-tight text-gray-900"> </h3>
                     <p className="text-sm font-semibold leading-6 text-indigo-600">Patron</p>
                 </div>
                 </div>
@@ -55,7 +55,7 @@ const About = () => {
                 <div className="flex items-center gap-x-6">
                 <img className="h-16 w-16 rounded-full" src="https://www.digitary.net/wp-content/uploads/2021/07/Generic-Profile-Image-300x300.png" alt=""/>
                 <div>
-                    <h3 className="text-base font-semibold leading-7 tracking-tight text-gray-900">Leslie Alexander</h3>
+                    <h3 className="text-base font-semibold leading-7 tracking-tight text-gray-900"> </h3>
                     <p className="text-sm font-semibold leading-6 text-indigo-600">President: </p>
                 </div>
                 </div>
@@ -127,7 +127,7 @@ const About = () => {
                 <div className="flex items-center gap-x-6">
                 <img className="h-16 w-16 rounded-full" src="https://www.digitary.net/wp-content/uploads/2021/07/Generic-Profile-Image-300x300.png" alt=""/>
                 <div>
-                    <h3 className="text-base font-semibold leading-7 tracking-tight text-gray-900">Leslie Alexander</h3>
+                    <h3 className="text-base font-semibold leading-7 tracking-tight text-gray-900"> </h3>
                     <p className="text-sm font-semibold leading-6 text-indigo-600">Joint Secretary</p>
                 </div>
                 </div>

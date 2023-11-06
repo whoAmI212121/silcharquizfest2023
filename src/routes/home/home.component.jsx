@@ -14,10 +14,10 @@ const Hero = () => {
         <p className=" ml-16 ">Hon'ble MLA, Silchar</p> 
         <p className=" ml-16 ">Convenor, Silchar Quiz Festival 2023</p> 
     </div>
-    <div className=" text-[#8868ff]">
+    <div className=" text-[#8868ff] mt-80 md:mt-0">
       <div className="max-w-[800px] md:mt-[-46px] w-full h-screen mx-auto text-center flex flex-col justify-center my-[-450px]">
         <p className="text-[#4e2686] font-bold p-2">
-          GRWOING WITH KNOWLEDGE
+          GROWING WITH KNOWLEDGE
         </p>
         <h1 className="md:text-7xl sm:text-6xl text-4xl md:py-6 font-bold">
           Silchar Quiz Fest.
